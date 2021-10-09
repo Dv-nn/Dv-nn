@@ -1,16 +1,26 @@
 ### Hi there, 👋 I'm Natalia.
 
-<!--
-**Dv-nn/Dv-nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :computer: I like to write code
+- :books: I learning new things constantly
+- :hearts: "Do what you Love, Love what you Do"
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+<br>
+
+### Languages and Tools:
+
+<img align='left' alt='HTML' width='26px' src=''>
+
+<br>
+<br>
+<br>
+
+### Follow me:
+
+[<img align='left' alt='Dv-nn | Instagram' width='22px' src=''/>][Instagram]
+
+
+
+
