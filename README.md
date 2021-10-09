@@ -25,7 +25,7 @@
 ### Follow me:
 
 [![Instagram](https://img.shields.io/badge/-Instagram/nata_lia_nn-1F2466?style=for-the-badge&logo=instagram&logoColor=E82DDC)](https://www.instagram.com/nata_lia_nn)<br>
-[![Twiter](https://img.shields.io/badge/-Twitter/Dv-nn-1F2466?style=for-the-badge&logo=Twitter&logoColor=449CF9)](https://twitter.com/Wind89494188)<br>
+[![Twitter](https://img.shields.io/badge/-Twitter/Dv_nn-1F2466?style=for-the-badge&logo=Twitter&logoColor=449CF9)](https://twitter.com/Wind89494188)<br>
 [![Facebook](https://img.shields.io/badge/-Facebook/Dvnn.01-1F2466?style=for-the-badge&logo=facebook&logoColor=2A59F8)](https://www.facebook.com/Dvnn.01/)<br>
 <br>
 
