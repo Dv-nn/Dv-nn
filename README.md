@@ -26,9 +26,14 @@
 
 ### Follow me:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-1F2466?style=for-the-badge&logo=instagram&logoColor=E82DDC)]()<br>
-[![Twiter](https://img.shields.io/badge/-Twitter-1F2466?style=for-the-badge&logo=Twitter&logoColor=449CF9)]()<br>
-[![Facebook](https://img.shields.io/badge/-Facebook-1F2466?style=for-the-badge&logo=facebook&logoColor=2A59F8)]()<br>
+[![Instagram](https://img.shields.io/badge/-Instagram/nata_lia_nn-1F2466?style=for-the-badge&logo=instagram&logoColor=E82DDC)](https://www.instagram.com/nata_lia_nn)<br>
+[![Twiter](https://img.shields.io/badge/-Twitter/Wind-1F2466?style=for-the-badge&logo=Twitter&logoColor=449CF9)](https://twitter.com/Wind89494188)<br>
+[![Facebook](https://img.shields.io/badge/-Facebook-1F2466?style=for-the-badge&logo=facebook&logoColor=2A59F8)](https://www.facebook.com/Dvnn.01/)<br>
+<br>
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-nn&layout=compact&theme=radical&count_private)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
