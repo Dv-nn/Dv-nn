@@ -1,4 +1,4 @@
-![Header](https://github.com/Dv-nn/Dv-nn/blob/main/assets/img.gif)
+![Header](https://github.com/Dv-nn/Dv-nn/blob/main/assets/bg.gif)
 
 
 ### Hi there, 👋 I'm Natalia.
