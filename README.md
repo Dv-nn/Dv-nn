@@ -3,6 +3,7 @@
 
 ### Hi there, 👋 I'm Natalia.
 
+- :high_brightness: I'm beginner FrontEnd Developer
 - :computer: I like to write code
 - :books: I learning new things constantly
 - :hearts: "Do what you Love, Love what you Do"
