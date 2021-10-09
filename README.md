@@ -1,3 +1,6 @@
+![Header](https://github.com/Dv-nn/Dv-nn/blob/main/assets/img.gif)
+
+
 ### Hi there, 👋 I'm Natalia.
 
 - :computer: I like to write code
