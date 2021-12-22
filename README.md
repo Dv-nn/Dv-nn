@@ -1,7 +1,7 @@
 
 
 
-### Hi there, 👋 I'm Natalia.
+### Hi there, 👋 I'm Natalya.
 
 - :high_brightness: I'm beginner FrontEnd Developer
 - :computer: I like to write code
