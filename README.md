@@ -3,7 +3,7 @@
 
 ### Hi there, 👋 I'm Natalya.
 
-- :high_brightness: I'm beginner FrontEnd Developer
+- :high_brightness: I'm junior Frontend Developer
 - :computer: I like to write code
 - :books: I learning new things constantly
 - :hearts: "Do what you Love, Love what you Do"
