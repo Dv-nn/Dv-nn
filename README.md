@@ -20,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1F2466?style=for-the-badge&logo=javascript&logoColor=F39C12 )<br>
 ![React](https://img.shields.io/badge/-React-1F2466?style=for-the-badge&logo=react&logoColor=00d8ff)<br>
 ![Gulp](https://img.shields.io/badge/-Gulp-1F2466?style=for-the-badge&logo=gulp&logoColor=C0392B)<br>
+![Python](https://img.shields.io/badge/-Python-1F2466?style=for-the-badge&logo=python)<br>
 <br>
 
 
@@ -31,5 +32,4 @@
 <br>
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-nn&layout=compact&theme=radical&count_private)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-nn&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-nn&layout=compact&theme=radical&count_private)](https://github.com/anuraghazra/github-readme-stats)
