@@ -31,4 +31,5 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-nn&layout=compact&theme=radical&count_private)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-nn&layout=compact&theme=radical&count_private)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-nn&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
