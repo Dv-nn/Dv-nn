@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1F2466?style=for-the-badge&logo=javascript&logoColor=F39C12 )<br>
 ![React](https://img.shields.io/badge/-React-1F2466?style=for-the-badge&logo=react&logoColor=00d8ff)<br>
 ![Gulp](https://img.shields.io/badge/-Gulp-1F2466?style=for-the-badge&logo=gulp&logoColor=C0392B)<br>
-![Python](https://img.shields.io/badge/-Python-1F2466?style=for-the-badge&logo=python)<br>
+![Python](https://img.shields.io/badge/-Python-1F2466?style=for-the-badge&logo=python&logoColor=FED548)<br>
 <br>
 
 
