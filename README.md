@@ -1,14 +1,11 @@
 
 
 
-### Hi there, 👋 I'm Natalya.
+### Привет, меня зовут Наталья!  
 
-- :high_brightness: I'm junior Frontend Developer
-- :computer: I like to write code
-- :books: I learning new things constantly
-- :hearts: "Do what you Love, Love what you Do"
-
-
+- :high_brightness: junior Frontend Developer  
+- :computer: Продолжаю изучение JavaScript и React  
+- :wave: Буду рада любому сотрудничеству и дельному совету  
 <br>
 
 
@@ -29,7 +26,7 @@
 
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram/nata_lia_webdev-1F2466?style=for-the-badge&logo=instagram&logoColor=E82DDC)](https://www.instagram.com/nata_lia_webdev)<br>
 [![Twitter](https://img.shields.io/badge/-Twitter/Dv_nn-1F2466?style=for-the-badge&logo=Twitter&logoColor=449CF9)](https://twitter.com/Wind89494188)<br> -->
-[![Telegram](https://img.shields.io/badge/-Telegram/Dv_code-1F2466?style=for-the-badge&logo=telegram&logoColor=2A59F8)](https://t.me/Web_pr01)<br>
+[![Telegram](https://img.shields.io/badge/-Telegram/Dv_code-1F2466?style=for-the-badge&logo=telegram&logoColor=2A59F8)](https://t.me/Web_pr01)<br>  
 <br>
 
 
