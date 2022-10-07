@@ -2,16 +2,14 @@
 
 
 ### Привет, меня зовут Наталья!  
-
-- :high_brightness:   
+<!-- - :high_brightness:    -->
 - :computer: Изучаю JavaScript и React  
 - :computer: Изучаю Python и Django
-- :wave: Буду рада любому сотрудничеству и дельному совету  
+- :wave: Буду рада любому сотрудничеству)
 <br>
 
 
 ### Languages and Tools:
-
 ![HTML](https://img.shields.io/badge/-HTML-1F2466?style=for-the-badge&logo=html5&logoColor=E74C3C)<br>
 ![CSS](https://img.shields.io/badge/-CSS-1F2466?style=for-the-badge&logo=css3&logoColor=3498DB)<br>
 ![SASS](https://img.shields.io/badge/-SASS-1F2466?style=for-the-badge&logo=sass&logoColor=A569BD)<br>
@@ -27,12 +25,8 @@
 ![Django](https://img.shields.io/badge/-Django-1F2466?style=for-the-badge&logo=django&logoColor=092d1f)<br>
 <br>
 
-
 ### Follow me:
-
-<!-- [![Instagram](https://img.shields.io/badge/-Instagram/nata_lia_webdev-1F2466?style=for-the-badge&logo=instagram&logoColor=E82DDC)](https://www.instagram.com/nata_lia_webdev)<br>
-[![Twitter](https://img.shields.io/badge/-Twitter/Dv_nn-1F2466?style=for-the-badge&logo=Twitter&logoColor=449CF9)](https://twitter.com/Wind89494188)<br> -->
-[![Telegram](https://img.shields.io/badge/-Telegram/WEB_dev-1F2466?style=for-the-badge&logo=telegram&logoColor=2A59F8)](https://t.me/WEB_NN)<br>  
+[![Telegram](https://img.shields.io/badge/-Telegram/Natalya-1F2466?style=for-the-badge&logo=telegram&logoColor=2A59F8)](https://t.me/Nata_lya_n)<br>  
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte/Natalya-1F2466?style=for-the-badge&logo=vk&logoColor=2A59F8)](https://vk.com/id737577207)<br>  
 <br>
 
