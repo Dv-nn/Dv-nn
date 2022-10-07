@@ -22,7 +22,7 @@
 <br>
 <br>
 ![Python](https://img.shields.io/badge/-Python-1F2466?style=for-the-badge&logo=python&logoColor=FED548)<br>
-![Django](https://img.shields.io/badge/-Django-1F2466?style=for-the-badge&logo=django&logoColor=092d1f)<br>
+![Django](https://img.shields.io/badge/-Django-1F2466?style=for-the-badge&logo=django&logoColor=166D4B)<br>
 <br>
 
 ### Follow me:
