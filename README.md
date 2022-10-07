@@ -1,5 +1,7 @@
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
+</div>
 
 ### Hi there, my name is Natalya!  
 <!-- - :high_brightness:    -->
@@ -7,6 +9,20 @@
 - :computer: I study JavaScript и React  
 - :wave: I'll be glad to any cooperation)
 <br>
+
+<div id="badges">
+  <a href="my-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="my-telegram-URL">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
+  </a>
+  <a href="my-vk-URL">
+    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vkontakte&logoColor=blue" alt="Vk Badge"/>
+  </a>
+</div>
+<br>
+![](https://komarev.com/ghpvc/?username=Dv-nn&style=flat&color=blueviolet)
 
 
 ### Languages and Tools:  
@@ -26,9 +42,9 @@
 <br>
 <br>
 
-### Follow me:
+<!-- ### Follow me:
 [![Telegram](https://img.shields.io/badge/-Telegram/Natalya-1F2466?style=for-the-badge&logo=telegram&logoColor=2A59F8)](https://t.me/Nata_lya_n)<br>  
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte/Natalya-1F2466?style=for-the-badge&logo=vk&logoColor=2A59F8)](https://vk.com/id737577207)<br>  
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte/Natalya-1F2466?style=for-the-badge&logo=vk&logoColor=2A59F8)](https://vk.com/id737577207)<br>   -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-nn&layout=compact&theme=radical&count_private)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-nn)](https://github.com/anuraghazra/github-readme-stats)
