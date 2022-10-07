@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"/>
 </div>
 
 ### Hi there, my name is Natalya!  
@@ -22,7 +22,7 @@
   </a>
 </div>
 <br>
-![](https://komarev.com/ghpvc/?username=Dv-nn&style=flat&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=Dv-nn&style=flat&color=blueviolet" alt=""/>
 
 
 ### Languages and Tools:  
@@ -47,4 +47,4 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte/Natalya-1F2466?style=for-the-badge&logo=vk&logoColor=2A59F8)](https://vk.com/id737577207)<br>   -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-nn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-nn&color=blueviolet)](https://github.com/anuraghazra/github-readme-stats)
