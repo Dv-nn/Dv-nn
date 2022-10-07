@@ -26,9 +26,8 @@
 <br>
 
 ### Follow me:
-[![Telegram](https://img.shields.io/badge/-Telegram/Natalya-1F2466?style=for-the-badge&logo=telegram&logoColor=2A59F8)](https://t.me/Nata_lya_n)<br>  
+[![Telegram](https://img.shields.io/badge/-Telegram/Natalya-1F2466?style=for-the-badge&logo=telegram&logoColor=2A59F8)](https://t.me/Nata_lya_n) 
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte/Natalya-1F2466?style=for-the-badge&logo=vk&logoColor=2A59F8)](https://vk.com/id737577207)<br>  
-<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-nn&layout=compact&theme=radical&count_private)](https://github.com/anuraghazra/github-readme-stats)
