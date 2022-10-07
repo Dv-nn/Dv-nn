@@ -9,12 +9,7 @@
 <br>
 
 
-### Languages and Tools:
-<br>
-![Python](https://img.shields.io/badge/-Python-1F2466?style=for-the-badge&logo=python&logoColor=FED548)<br>
-![Django](https://img.shields.io/badge/-Django-1F2466?style=for-the-badge&logo=django&logoColor=166D4B)<br>
-<br>
-<br>
+### Languages and Tools:  
 ![HTML](https://img.shields.io/badge/-HTML-1F2466?style=for-the-badge&logo=html5&logoColor=E74C3C)<br>
 ![CSS](https://img.shields.io/badge/-CSS-1F2466?style=for-the-badge&logo=css3&logoColor=3498DB)<br>
 ![SASS](https://img.shields.io/badge/-SASS-1F2466?style=for-the-badge&logo=sass&logoColor=A569BD)<br>
@@ -24,6 +19,11 @@
 <br>
 ![Gulp](https://img.shields.io/badge/-Gulp-1F2466?style=for-the-badge&logo=gulp&logoColor=C0392B)<br>
 ![Webpack](https://img.shields.io/badge/-Webpack-1F2466?style=for-the-badge&logo=webpack&logoColor=8FD6FB)<br>
+<br>
+<br>
+![Python](https://img.shields.io/badge/-Python-1F2466?style=for-the-badge&logo=python&logoColor=FED548)<br>
+![Django](https://img.shields.io/badge/-Django-1F2466?style=for-the-badge&logo=django&logoColor=166D4B)<br>
+<br>
 <br>
 
 ### Follow me:
