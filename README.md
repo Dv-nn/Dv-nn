@@ -1,11 +1,11 @@
 
 
 
-### Привет, меня зовут Наталья!  
+### Hi there, my name is Natalya!  
 <!-- - :high_brightness:    -->
-- :computer: Изучаю JavaScript и React  
-- :computer: Изучаю Python и Django
-- :wave: Буду рада любому сотрудничеству)
+- :computer: I study Python и Django
+- :computer: I study JavaScript и React  
+- :wave: I'll be glad to any cooperation)
 <br>
 
 
