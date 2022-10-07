@@ -26,7 +26,7 @@
 <br>
 
 ### Follow me:
-[![Telegram](https://img.shields.io/badge/-Telegram/Natalya-1F2466?style=for-the-badge&logo=telegram&logoColor=2A59F8)](https://t.me/Nata_lya_n) 
+[![Telegram](https://img.shields.io/badge/-Telegram/Natalya-1F2466?style=for-the-badge&logo=telegram&logoColor=2A59F8)](https://t.me/Nata_lya_n)<br>  
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte/Natalya-1F2466?style=for-the-badge&logo=vk&logoColor=2A59F8)](https://vk.com/id737577207)<br>  
 
 
