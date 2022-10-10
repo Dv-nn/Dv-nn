@@ -14,10 +14,10 @@
   <a href="my-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="my-telegram-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?username=Nata_lya_n&style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
+  <a href="https://t.me/Nata_lya_n">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
-  <a href="my-vk-URL">
+  <a href="https://vk.com/id737577207">
     <img src="https://img.shields.io/badge/Vkontakte-blue?&style=for-the-badge&logo=vkontakte&logoColor=blue" alt="Vk Badge"/>
   </a>
 </div>
