@@ -15,10 +15,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="my-telegram-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?username=Nata_lya_n&style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
   <a href="my-vk-URL">
-    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vkontakte&logoColor=blue" alt="Vk Badge"/>
+    <img src="https://img.shields.io/badge/Vkontakte-blue?&style=for-the-badge&logo=vkontakte&logoColor=blue" alt="Vk Badge"/>
   </a>
 </div>
 <br>
