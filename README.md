@@ -41,5 +41,4 @@
 ![Django](https://img.shields.io/badge/-Django-1F2466?style=for-the-badge&logo=django&logoColor=166D4B)
 <br>
 <br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-nn&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
