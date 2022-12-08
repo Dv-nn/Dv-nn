@@ -38,7 +38,8 @@
 <br>
 <br>
 ![Python](https://img.shields.io/badge/-Python-1F2466?style=for-the-badge&logo=python&logoColor=FED548)
-![Django](https://img.shields.io/badge/-Django-1F2466?style=for-the-badge&logo=django&logoColor=166D4B)
+![Django](https://img.shields.io/badge/-Django-1F2466?style=for-the-badge&logo=django&logoColor=166D4B)  
+![SQL](https://img.shields.io/badge/-SQL-1F2466?style=for-the-badge&logo=sql&logoColor=1F78BC)
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-nn&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
