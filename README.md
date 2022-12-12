@@ -5,8 +5,7 @@
 
 ### Hi there, my name is Natalya!  
 <!-- - :high_brightness:    -->
-- :computer: I study Python и Django
-- :computer: I study JavaScript и React  
+- :computer: I study Python and JavaScript  
 - :wave: I'll be glad to any cooperation)
 <br>
 
