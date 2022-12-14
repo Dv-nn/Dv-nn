@@ -42,4 +42,4 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1F2466?style=for-the-badge&logo=PostgreSQL&logoColor=3E7097)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dv-nn&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-nn&langs_count=10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
