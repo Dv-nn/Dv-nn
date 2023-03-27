@@ -16,9 +16,9 @@
   <a href="https://t.me/Nata_lya_n">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
-  <a href="https://vk.com/id737577207">
+<!--   <a href="https://vk.com/id737577207">
     <img src="https://img.shields.io/badge/Vkontakte-blue?&style=for-the-badge&logo=vkontakte&logoColor=blue" alt="Vk Badge"/>
-  </a>
+  </a> -->
 </div>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Dv-nn&style=flat&color=blueviolet" alt=""/>
