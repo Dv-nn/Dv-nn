@@ -25,6 +25,13 @@
 
 
 ### Languages and Tools:  
+
+![Python](https://img.shields.io/badge/-Python-1F2466?style=for-the-badge&logo=python&logoColor=FED548)
+![Django](https://img.shields.io/badge/-Django-1F2466?style=for-the-badge&logo=django&logoColor=166D4B)
+![SQL](https://img.shields.io/badge/-SQL-1F2466?style=for-the-badge&logo=SQL&logoColor=1F78BC)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1F2466?style=for-the-badge&logo=PostgreSQL&logoColor=3E7097)
+<br>
+<br>
 ![HTML](https://img.shields.io/badge/-HTML-1F2466?style=for-the-badge&logo=html5&logoColor=E74C3C)
 ![CSS](https://img.shields.io/badge/-CSS-1F2466?style=for-the-badge&logo=css3&logoColor=3498DB)
 ![SASS](https://img.shields.io/badge/-SASS-1F2466?style=for-the-badge&logo=sass&logoColor=A569BD)
@@ -34,12 +41,6 @@
 <br>
 ![Gulp](https://img.shields.io/badge/-Gulp-1F2466?style=for-the-badge&logo=gulp&logoColor=C0392B)
 ![Webpack](https://img.shields.io/badge/-Webpack-1F2466?style=for-the-badge&logo=webpack&logoColor=8FD6FB)
-<br>
-<br>
-![Python](https://img.shields.io/badge/-Python-1F2466?style=for-the-badge&logo=python&logoColor=FED548)
-![Django](https://img.shields.io/badge/-Django-1F2466?style=for-the-badge&logo=django&logoColor=166D4B)
-![SQL](https://img.shields.io/badge/-SQL-1F2466?style=for-the-badge&logo=SQL&logoColor=1F78BC)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1F2466?style=for-the-badge&logo=PostgreSQL&logoColor=3E7097)
 <br>
 <br>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-nn&layout=compact&langs_count=10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
