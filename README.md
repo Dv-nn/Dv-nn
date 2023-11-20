@@ -5,7 +5,7 @@
 
 ### Hi there, my name is Natalya!  
 <!-- - :high_brightness:    -->
-- :computer: I study Python and JavaScript  
+- :computer: I study Python  
 - :wave: I'll be glad to any cooperation)
 <br>
 
@@ -44,3 +44,6 @@
 <br>
 <br>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-nn&layout=compact&langs_count=10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+<br>  
+<br>  
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dv-nn)](https://github.com/dv-nn/github-readme)
