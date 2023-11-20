@@ -1,9 +1,9 @@
 
-<div id="header" align="center" width="700">
-  <img src="(https://github.com/Dv-nn/Dv-nn/blob/main/assets/moscow-space-black-blue-wallpaper2.jpg)" /> 
-</div>
-  
 
+(https://github.com/Dv-nn/Dv-nn/blob/main/assets/moscow-space-black-blue-wallpaper2.jpg)
+
+  
+<br>
 ### Hi there, my name is Natalya!  
 <!-- - :high_brightness:    -->
 - :computer: I study Python  
@@ -52,4 +52,4 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Dv-nn)
 <br>  
 <br>  
-![Codewars](https://github.r2v.ch/codewars?user=dv-nn)
+![Codewars](https://www.codewars.com/users/Dv-nn-01/badges/large)  
