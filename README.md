@@ -1,6 +1,6 @@
 
 
-(https://github.com/Dv-nn/Dv-nn/blob/main/assets/moscow-space-black-blue-wallpaper2.jpg)
+![](https://github.com/Dv-nn/Dv-nn/blob/main/assets/moscow-space-black-blue-wallpaper2.jpg)
 
   
 <br>
