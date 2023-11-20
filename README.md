@@ -51,4 +51,4 @@
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dv-nn)](https://github.com/dv-nn/github-readme)  
 <br>  
 <br>  
-<!--[![Codewars Badge](https://www.codewars.com/users/dv-nn/badges/large)](https://www.codewars.com/users/dv-nn)  -->
+[![Codewars Badge](https://www.codewars.com/users/dv-nn/badges/large)](https://www.codewars.com/users/dv-nn) 
