@@ -1,5 +1,5 @@
 
-<div id="header" align="center">
+<div id="header" align="center" width="700">
   <img src="(https://github.com/Dv-nn/Dv-nn/blob/main/assets/moscow-space-black-blue-wallpaper.jpg)" />
 </div>
 
@@ -48,7 +48,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-nn&layout=compact&langs_count=10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 <br>  
 <br> 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dv-nn)](https://github.com/dv-nn/github-readme)  
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dv-nn)](https://github.com/dv-nn/github-readme)  
 <br>  
 <br>  
 <!--[![Codewars Badge](https://www.codewars.com/users/dv-nn/badges/large)](https://www.codewars.com/users/dv-nn)  -->
