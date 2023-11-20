@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="[https://github.com/Dv-nn/Dv-nn/blob/main/assets/1662144830_56-kartinkin-net-p-kadri-zemli-iz-kosmosa-kosmos-70.jpg.](https://github.com/Dv-nn/Dv-nn/blob/main/assets/moscow-space-black-blue-wallpaper.jpg)" width="700" />
+  <img src="(https://github.com/Dv-nn/Dv-nn/blob/main/assets/moscow-space-black-blue-wallpaper.jpg)" width="700" />
 </div>
 
 ### Hi there, my name is Natalya!  
