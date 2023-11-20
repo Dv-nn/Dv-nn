@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="(https://github.com/Dv-nn/Dv-nn/blob/main/assets/moscow-space-black-blue-wallpaper.jpg)" width="700" />
+  <img src="(https://github.com/Dv-nn/Dv-nn/blob/main/assets/moscow-space-black-blue-wallpaper.jpg)" />
 </div>
 
 ### Hi there, my name is Natalya!  
@@ -29,7 +29,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-1F2466?style=for-the-badge&logo=python&logoColor=FED548)
 ![Django](https://img.shields.io/badge/-Django-1F2466?style=for-the-badge&logo=django&logoColor=166D4B)
-![Fast API](https://img.shields.io/badge/-Django-1F2466?style=for-the-badge&logo=fastapilogoColor=05998B)
+![Fast API](https://img.shields.io/badge/-Fast_API-1F2466?style=for-the-badge&logo=fastapilogoColor=05998B)
 ![SQL](https://img.shields.io/badge/-SQL-1F2466?style=for-the-badge&logo=sql&logoColor=1F78BC)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1F2466?style=for-the-badge&logo=postgresql&logoColor=3E7097)
 ![Docker](https://img.shields.io/badge/-Docker-1F2466?style=for-the-badge&logo=docker&logoColor=1D63ED)
