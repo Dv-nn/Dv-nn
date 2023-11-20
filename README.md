@@ -1,7 +1,7 @@
 
-<!--<div id="header" align="center" width="700">
-  <img src="(https://github.com/Dv-nn/Dv-nn/blob/main/assets/moscow-space-black-blue-wallpaper.jpg)" /> -->
-  ![](https://github.com/Dv-nn/Dv-nn/blob/main/assets/moscow-space-black-blue-wallpaper2.jpg?raw=true&align="center" width="700")
+<div id="header" align="center" width="700">
+  <img src="(https://github.com/Dv-nn/Dv-nn/blob/main/assets/moscow-space-black-blue-wallpaper2.jpg)" /> 
+</div>
   
 
 ### Hi there, my name is Natalya!  
