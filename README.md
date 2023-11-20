@@ -39,11 +39,17 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1F2466?style=for-the-badge&logo=javascript&logoColor=F39C12 )
 ![React](https://img.shields.io/badge/-React-1F2466?style=for-the-badge&logo=react&logoColor=00d8ff)
 <br>
-![Gulp](https://img.shields.io/badge/-Gulp-1F2466?style=for-the-badge&logo=gulp&logoColor=C0392B)
+![Gulp](https://img.shields.io/badge/-Gulp-1F2466?style=for-the-badge&logo=gulp&logoColor=C0392B)  
 ![Webpack](https://img.shields.io/badge/-Webpack-1F2466?style=for-the-badge&logo=webpack&logoColor=8FD6FB)
 <br>
 <br>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-nn&layout=compact&langs_count=10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 <br>  
+<br> 
+![Commit Graph](https://myreadme.vercel.app/api/embed/YOURNAME?panels=commitgraph)
 <br>  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dv-nn)](https://github.com/dv-nn/github-readme)
+<br> 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dv-nn)](https://github.com/dv-nn/github-readme)  
+<br>  
+<br>  
+[![Codewars Badge](https://www.codewars.com/users/dv-nn/badges/large)](https://www.codewars.com/users/dv-nn)  
