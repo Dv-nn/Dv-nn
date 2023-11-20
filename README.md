@@ -1,13 +1,10 @@
 
-
 ![](https://github.com/Dv-nn/Dv-nn/blob/main/assets/moscow-space-black-blue-wallpaper2.jpg)
 
-  
-<br>
-### Hi there, my name is Natalya!  
+### Hi there, my name is Natalya!    
 <!-- - :high_brightness:    -->
-- :computer: I study Python  
-- :wave: I'll be glad to any cooperation)
+- :computer: I study Python    
+- :wave: I'll be glad to any cooperation)  
 <br>
 
 <div id="badges">
