@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500"/>
+  <img src="https://github.com/Dv-nn/Dv-nn/blob/main/assets/17923e078afd1fc859746df775e346b1.jpg" width="800"/>
 </div>
 
 ### Hi there, my name is Natalya!  
