@@ -1,8 +1,8 @@
 
 <!--<div id="header" align="center" width="700">
   <img src="(https://github.com/Dv-nn/Dv-nn/blob/main/assets/moscow-space-black-blue-wallpaper.jpg)" /> -->
-  ![](https://github.com/Dv-nn/Dv-nn/blob/main/assets/moscow-space-black-blue-wallpaper.jpg?raw=true&align="center" width="700")
-
+  ![](https://github.com/Dv-nn/Dv-nn/blob/main/assets/moscow-space-black-blue-wallpaper2.jpg?raw=true&align="center" width="700")
+  
 
 ### Hi there, my name is Natalya!  
 <!-- - :high_brightness:    -->
@@ -49,7 +49,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-nn&layout=compact&langs_count=10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 <br>  
 <br> 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dv-nn)](https://github.com/dv-nn/github-readme)  
+![Leetcode Stats](https://leetcard.jacoblin.cool/Dv-nn)
 <br>  
 <br>  
-![Codewars](https://github.r2v.ch/codewars?user=dv-nn&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=dv-nn)
