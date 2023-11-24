@@ -24,22 +24,21 @@
  
 <h3>Languages and Tools: </h3> 
 
-![Python](https://img.shields.io/badge/-Python-1F2466?style=for-the-badge&logo=python&logoColor=FED548)
-![Django](https://img.shields.io/badge/-Django-1F2466?style=for-the-badge&logo=django&logoColor=166D4B)
-![Fast API](https://img.shields.io/badge/-Fast_API-1F2466?style=for-the-badge&logo=fastapilogoColor=05998B)
-![SQL](https://img.shields.io/badge/-SQL-1F2466?style=for-the-badge&logo=sql&logoColor=1F78BC)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1F2466?style=for-the-badge&logo=postgresql&logoColor=3E7097)
-![Docker](https://img.shields.io/badge/-Docker-1F2466?style=for-the-badge&logo=docker&logoColor=1D63ED)
+![Python](https://img.shields.io/badge/Python-FED548?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-166D4B?style=for-the-badge&logo=django&logoColor=white)
+![Fast API](https://img.shields.io/badge/Fast_API-05998B?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3E7097?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
 <br>
 <br>
-![HTML](https://img.shields.io/badge/-HTML-1F2466?style=for-the-badge&logo=html5&logoColor=E74C3C)
-![CSS](https://img.shields.io/badge/-CSS-1F2466?style=for-the-badge&logo=css3&logoColor=3498DB)
-![SASS](https://img.shields.io/badge/-SASS-1F2466?style=for-the-badge&logo=sass&logoColor=A569BD)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-1F2466?style=for-the-badge&logo=bootstrap&logoColor=7531F9)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1F2466?style=for-the-badge&logo=javascript&logoColor=F39C12 )
-![React](https://img.shields.io/badge/-React-1F2466?style=for-the-badge&logo=react&logoColor=00d8ff)
+![HTML](https://img.shields.io/badge/HTML-E74C3C?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3498DB?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-A569BD?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7531F9?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F39C12?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=react&logoColor=white)
 <br>
-![Gulp](https://img.shields.io/badge/-Gulp-1F2466?style=for-the-badge&logo=gulp&logoColor=C0392B)  
+![Gulp](https://img.shields.io/badge/Gulp-C0392B?style=for-the-badge&logo=gulp&logoColor=white)  
 <br>
 <br>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-nn&layout=compact&langs_count=10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
