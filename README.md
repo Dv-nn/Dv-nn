@@ -4,11 +4,11 @@
 - :wave: I'll be glad to any cooperation)  
 <br>
 You can reach me:  
-![Linkedin](https://img.shields.io/badge/-Linkedin-1F2466?style=for-the-badge&logo=linkedin&logoColor=#2346dc)
+<!--![Linkedin](https://img.shields.io/badge/-Linkedin-1F2466?style=for-the-badge&logo=linkedin&logoColor=#2346dc)
 <br>
 ![Telegram](https://img.shields.io/badge/-Telegram-1F2466?style=for-the-badge&logo=telegram&logoColor=#3384cc)
 <br>
-![Gmail](https://img.shields.io/badge/-Gmail-1F2466?style=for-the-badge&logo=gmail)
+![Gmail](https://img.shields.io/badge/-Gmail-1F2466?style=for-the-badge&logo=gmail) -->
 <br>
 <br>
 ### Languages and Tools:  
