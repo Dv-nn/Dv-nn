@@ -1,9 +1,9 @@
-### Hi there, my name is Natalya!    
+### Hi there, my name is Natalya and I'm a Python Developer.  
 <!-- - :high_brightness:    -->
-- :computer: I study Python    
+- :computer:  I’m currently developing my Python skills. 
 - :wave: I'll be glad to any cooperation)  
 <br>
-
+You can reach me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/natalya-dubrovina-196255250/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,6 +11,9 @@
   <br>
   <a href="https://t.me/Nata_lya_n">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
+  </a>
+  <a href="dv-nn-01@mail.ru">
+    <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=" alt="Mail Badge"/>
   </a>
 <!--   <a href="https://vk.com/id737577207">
     <img src="https://img.shields.io/badge/Vkontakte-blue?&style=for-the-badge&logo=vkontakte&logoColor=blue" alt="Vk Badge"/>
