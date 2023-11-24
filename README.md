@@ -1,28 +1,29 @@
-### Hi there, my name is Natalya and I'm a Python Developer.  
-<!-- - :high_brightness:    -->
-- :computer:  I’m currently developing my Python skills. 
-- :wave: I'll be glad to any cooperation)  
+<div id="header">
+  <h1>Hi there, my name is Natalya</h1>
+</div>
 <br>
+<br> 
+<div id="About">
+  <h3>I'm a Python Developer.</h3>
+  <ul>
+    <li>:computer:  I’m currently developing my Python skills.</li>
+    <li>:wave: I'll be glad to any cooperation) </li>
+  </ul>
+</div>
 <br>
-You can reach me:  
-<br>
-<div id="badges">
-  <a href="https://api.whatsapp.com/send/?phone=79670801557&text&type=phone_number&app_absent=0">
-    <img src="https://img.shields.io/badge/-Watsapp-1F2466?style=for-the-badge&logo=watsapp/>
-  </a>
-  <br>
+<br> 
+<div id="Contact">
+  <h4>You can reach me:</h4>
   <a href="https://t.me/Nata_lya_n">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <br>
-  <a href="dv-nn-01@mail.ru">
-    <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=" alt="Mail Badge"/>
+  <a href="mailto:dv-nn-01@mail.ru">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 <br>
-<img src="https://komarev.com/ghpvc/?username=Dv-nn&style=flat&color=blueviolet" alt=""/>
-<br>
-<br>
+<br> 
 ### Languages and Tools:  
 
 ![Python](https://img.shields.io/badge/-Python-1F2466?style=for-the-badge&logo=python&logoColor=FED548)
