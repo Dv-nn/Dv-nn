@@ -4,7 +4,12 @@
 - :wave: I'll be glad to any cooperation)  
 <br>
 You can reach me:
-<div id="badges">
+![Linkedin](https://img.shields.io/badge/-Linkedin-1F2466?style=for-the-badge&logo=linkedin&logoColor=#2346dc)
+<br>
+![Telegram](https://img.shields.io/badge/-Telegram-1F2466?style=for-the-badge&logo=telegram&logoColor=#3384cc)
+<br>
+![Gmail](https://img.shields.io/badge/-Gmail-1F2466?style=for-the-badge&logo=gmail&logoColor=#ffffff)
+<!-- <div id="badges">
   <a href="https://www.linkedin.com/in/natalya-dubrovina-196255250/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -12,16 +17,16 @@ You can reach me:
   <a href="https://t.me/Nata_lya_n">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
+  <br>
   <a href="dv-nn-01@mail.ru">
     <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=" alt="Mail Badge"/>
   </a>
-<!--   <a href="https://vk.com/id737577207">
+  <a href="https://vk.com/id737577207">
     <img src="https://img.shields.io/badge/Vkontakte-blue?&style=for-the-badge&logo=vkontakte&logoColor=blue" alt="Vk Badge"/>
-  </a> -->
+  </a>
 </div>
 <br>
-<img src="https://komarev.com/ghpvc/?username=Dv-nn&style=flat&color=blueviolet" alt=""/>
-
+<img src="https://komarev.com/ghpvc/?username=Dv-nn&style=flat&color=blueviolet" alt=""/> -->
 
 ### Languages and Tools:  
 
