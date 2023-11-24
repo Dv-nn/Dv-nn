@@ -1,8 +1,7 @@
 <div id="header">
-  <h1>Hi there, my name is Natalya</h1>
+  <h1>Hi there, my name is Natalya.</h1>
 </div>
 <br>
-<br> 
 <div id="About">
   <h3>I'm a Python Developer.</h3>
   <ul>
@@ -11,7 +10,6 @@
   </ul>
 </div>
 <br>
-<br> 
 <div id="Contact">
   <h4>You can reach me:</h4>
   <a href="https://t.me/Nata_lya_n">
@@ -22,9 +20,9 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-<br>
-<br> 
-### Languages and Tools:  
+<hr>
+ 
+<h3>Languages and Tools: </h3> 
 
 ![Python](https://img.shields.io/badge/-Python-1F2466?style=for-the-badge&logo=python&logoColor=FED548)
 ![Django](https://img.shields.io/badge/-Django-1F2466?style=for-the-badge&logo=django&logoColor=166D4B)
