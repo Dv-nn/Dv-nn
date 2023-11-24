@@ -7,8 +7,8 @@
 You can reach me:  
 <br>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/natalya-dubrovina-196255250/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://api.whatsapp.com/send/?phone=79670801557&text&type=phone_number&app_absent=0">
+    <img src="https://img.shields.io/badge/-Watsapp-1F2466?style=for-the-badge&logo=watsapp/>
   </a>
   <br>
   <a href="https://t.me/Nata_lya_n">
@@ -24,7 +24,7 @@ You can reach me:
 <br>
 <br>
 ### Languages and Tools:  
-<br>
+
 ![Python](https://img.shields.io/badge/-Python-1F2466?style=for-the-badge&logo=python&logoColor=FED548)
 ![Django](https://img.shields.io/badge/-Django-1F2466?style=for-the-badge&logo=django&logoColor=166D4B)
 ![Fast API](https://img.shields.io/badge/-Fast_API-1F2466?style=for-the-badge&logo=fastapilogoColor=05998B)
