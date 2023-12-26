@@ -44,6 +44,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-nn&layout=compact&langs_count=10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 <br>  
 <br> 
+[![GitHub watchers](https://img.shields.io/github/watchers/Dv-nn/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Dv-nn/StrapDown.js/watchers/)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Dv-nn)
 <br>  
 <br>  
