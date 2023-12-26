@@ -38,14 +38,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F39C12?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=react&logoColor=white)
 <br>
-![Gulp](https://img.shields.io/badge/Gulp-C0392B?style=for-the-badge&logo=gulp&logoColor=white)  
+![Gulp](https://img.shields.io/badge/Gulp-C0392B?style=for-the-badge&logo=gulp&logoColor=white)    
 <br>
 <br>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-nn&layout=compact&langs_count=10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 <br>  
 <br> 
-[![GitHub watchers](https://img.shields.io/github/watchers/Dv-nn/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Dv-nn/StrapDown.js/watchers/)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Dv-nn)
 <br>  
 <br>  
 ![Codewars](https://www.codewars.com/users/Dv-nn-01/badges/large)  
+<br>  
+<br>   
+[![GitHub watchers](https://img.shields.io/github/watchers/Dv-nn/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Dv-nn/StrapDown.js/watchers/)    
+
