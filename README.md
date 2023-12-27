@@ -50,5 +50,5 @@
 ![Codewars](https://www.codewars.com/users/Dv-nn-01/badges/large)  
 <br>  
 <br>   
-<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+<img src="https://komarev.com/ghpvc/?username=dv-nn&color=brightgreen" alt="watching_count" />
 
