@@ -50,5 +50,5 @@
 ![Codewars](https://www.codewars.com/users/Dv-nn-01/badges/large)  
 <br>  
 <br>   
-![GitHub watchers](https://img.shields.io/github/watchers/Dv-nn/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)  
+<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
 
