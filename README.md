@@ -9,8 +9,6 @@
     <li>:wave: I'll be glad to any cooperation) </li>
   </ul>
 </div>
-<br>    
-<img src="https://komarev.com/ghpvc/?username=dv-nn&color=brightgreen" alt="watching_count" />  
 <br>
 <div id="Contact">
   <h4>You can reach me:</h4>
@@ -22,6 +20,8 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+<br>    
+<img src="https://komarev.com/ghpvc/?username=dv-nn&color=brightgreen" alt="watching_count" />  
 <hr>
  
 <h3>Languages and Tools: </h3> 
