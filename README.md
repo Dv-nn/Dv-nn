@@ -9,10 +9,8 @@
     <li>:wave: I'll be glad to any cooperation) </li>
   </ul>
 </div>
-<br>  
-<br>   
+<br>    
 <img src="https://komarev.com/ghpvc/?username=dv-nn&color=brightgreen" alt="watching_count" />  
-<br>
 <br>
 <div id="Contact">
   <h4>You can reach me:</h4>
